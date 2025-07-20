@@ -16,16 +16,16 @@ WanderLust is a travel and accommodation web application designed to help users 
 
 **Frontend**
 - HTML, CSS, JavaScript
-- React.js (if used)
+  
 
 **Backend**
-- Node.js and Express.js (if used)
-- Firebase / MongoDB / MySQL (based on your database choice)
+- Node.js and Express.js 
+-  MongoDB 
 
 **Other Tools**
 - Git and GitHub for version control
 - Google Maps API (for map features)
 - Cloudinary or Firebase Storage (for image hosting)
 
-## Folder Structure
+
 
